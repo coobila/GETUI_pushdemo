@@ -38,19 +38,13 @@ namespace GETUIcsharp
         //private static String HOST = "https://api.getui.com/apiex.htm";
 
         //定義常量, appId、appKey、masterSecret 採用本文檔 "第二步 獲取訪問憑證 "中獲得的應用配置
-        //private static String APPID = "ZWVZShy9lQ9Ep1JCPoZgU9";
-        //private static String APPKEY = "Rw7DIReuqy5gZ9Mz0jmm39";
-        //private static String MASTERSECRET = "LUWaJWPp8m7HeNZVIXyan7";
 
-        private static String APPID = "83UZl8yHf69E1mSMzSWdL5";
-        private static String APPKEY = "J0Zgy7QQhq9IHviWUrGId";
-        private static String MASTERSECRET = "DYCLie8PqU9cbYyKy9xMj1";
+        private static String APPID = "請填寫自己的";
+        private static String APPKEY = "請填寫自己的";
+        private static String MASTERSECRET = "請填寫自己的";
 
         //您獲取的clientID
-        //private static String CLIENTID = "44215cb948f7ff34c447e53beaf6c097";//iphone 8+
-        //private static String CLIENTID = "ddb5eab1f93b57b62a87bf5a15bda1e3";//iphone 8
-
-        private static String CLIENTID = "1456126f5c75b8d5aaf1bda43551724f";//iphone 8
+        private static String CLIENTID = "請填寫自己的手機clientID";
 
         //别名推送方式
         private static String ALIAS = "";
